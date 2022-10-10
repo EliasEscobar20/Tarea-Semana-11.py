@@ -1,5 +1,7 @@
 # Carlos Antonio Nolasco Argueta
 # José Elias Escobar Ortiz
+
+
 from tkinter import Tk,Button,Label,filedialog
 from tkinter import messagebox
 from PIL import Image, ImageTk, ImageFilter
